@@ -1,1 +1,3 @@
 # octaveGaussJordanMethod
+
+Matrisler üzerinde Gauss Jordan Yönteminin uygulanmasını bilgisayar ortamında gerçekleştirebilen Octave programlama dili fonksiyonu...
